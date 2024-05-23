@@ -1,0 +1,15 @@
+{
+  "name": "html_canvas",
+  "version": "1.0.0",
+  "description": "random canvas garbage",
+  "main": "index.html",
+  "script": {
+    "test": "mocha ./test/unit/mytest.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.4.0",
+    "reflect-metadata": "^0.2.2"
+  }
+}

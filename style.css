@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+}
+
+h1 {
+    display: inline-block;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-family: 'IBM Plex Sans';
+    text-align: center;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+img {
+    display: inline-block;
+    height: 80;
+    width: 80;
+}
